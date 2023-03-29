@@ -31,7 +31,7 @@ public class Scanner {
         palabrasReservadas.put("este", TipoToken.ESTE);
         palabrasReservadas.put("verdadero", TipoToken.VERDADERO);
         palabrasReservadas.put("var", ); //definir variables
-        palabrasReservadas.put("mientras", );*/
+        palabrasReservadas.put("mientras", );
     }
 
     Scanner(String source){
